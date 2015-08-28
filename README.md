@@ -6,6 +6,8 @@ Speak App! allows students to anonymously communicate concerns and compliments t
 
 OUR GENERAL APPROACH:
 
+We began our work as a team suggesting ideas for a project and very quickly and easily settled on Speak App! We then created a survey to go out to WDI students and teachers to identify the sorts of concerns and compliments that both would find valuable. Results in hand, we were then able to create our User Stories. From there we tackled setting up our ERD, followed by a session of design studio to figure out our wireframes. Additionally, we found it useful to diagram 
+
 INSTALLATION INSTRUCTIONS:
 
 UNSOLVED PROBLEMS / MAJOR HURDLES OVERCOME:
