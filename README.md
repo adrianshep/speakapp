@@ -24,7 +24,7 @@ MAJOR HURDLES OVERCOME:
 
 - flared-up wounded knee
 - Sequelize issues
-- in-place Twitter authentication getting the way of further app development
+- in-place Twitter authentication getting in the way of further app development
 
 UNSOLVED PROBLEMS:
 
