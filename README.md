@@ -12,6 +12,12 @@ Our planning and diagramming suggested that we set up our back-end first, which 
 
 INSTALLATION INSTRUCTIONS:
 
+Turn your computer's power switch to ON. 
+
+Dependencies for using Speak App!:
+NPS install
+
+
 UNSOLVED PROBLEMS / MAJOR HURDLES OVERCOME:
 
 
