@@ -6,6 +6,10 @@ Speak App! allows students to anonymously communicate concerns and compliments t
 
 OUR GENERAL APPROACH:
 
+INSTALLATION INSTRUCTIONS:
+
+UNSOLVED PROBLEMS/MAJOR HURDLES OVERCOME:
+
 
 
 USER STORIES:
