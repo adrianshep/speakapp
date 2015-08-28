@@ -15,7 +15,9 @@ INSTALLATION INSTRUCTIONS:
 Turn your computer's power switch to ON. 
 
 Dependencies for using Speak App!:
-NPS install
+
+NPM install
+
 
 
 UNSOLVED PROBLEMS / MAJOR HURDLES OVERCOME:
