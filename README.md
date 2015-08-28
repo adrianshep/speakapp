@@ -20,9 +20,16 @@ NPM install
 
 
 
-MAJOR HURDLES OVERCOME / UNSOLVED PROBLEMS:
+MAJOR HURDLES OVERCOME:
 
+- flared-up wounded knee
+- Sequelize issues
+- in-place Twitter authentication getting the way of further app development
 
+UNSOLVED PROBLEMS:
+
+- world hunger
+- womanned and manned mission to Mars
 
 USER STORIES:
 
