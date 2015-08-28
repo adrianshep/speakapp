@@ -28,6 +28,7 @@ MAJOR HURDLES OVERCOME:
 
 UNSOLVED PROBLEMS:
 
+- we ran out of time to build an instructor's show page which would display communications from students in realtime.
 - world hunger
 - womanned and manned mission to Mars
 
