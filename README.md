@@ -2,7 +2,7 @@ Speak App!
 
 PROJECT DESCRIPTION:
 
-Speak App! allows students to anonymously communicate concerns and compliments to instructors during class time. It also allows instructors to track those student concerns and compliments across all the lessons they've taught and understand places where they might change their approach to improve the lessons or know where their approach is working well.
+Speak App! allows students to anonymously communicate concerns and compliments to instructors during class time. It also allows instructors to track those student concerns and compliments across all the lessons they've taught and understand where they might change their teaching approach to improve the lessons or know where their approach is working well.
 
 OUR GENERAL APPROACH:
 
